@@ -1,2 +1,3 @@
 jProtection
 ===========
+All Rights Reserved.
